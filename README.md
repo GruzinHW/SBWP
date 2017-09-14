@@ -1,2 +1,2 @@
-# SBWP
-Small Buisness Web Page (Udemy Course)
+# STWP
+Small Travel Web Page (Udemy Course)
