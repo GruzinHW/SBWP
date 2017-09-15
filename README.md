@@ -1,3 +1,3 @@
 # STWP
 
-Small Travel Web Page (Udemy Course)
+Simple Responsive Page with Bootstrap
